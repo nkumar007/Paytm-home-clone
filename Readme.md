@@ -12,7 +12,7 @@
 
   <p align="left">
     <br />
-    <a href="">Deployed Link</a>
+    <a href="https://paytm-home-tailwind.netlify.app/">Deployed Link</a>
   </p>
 </div>
 
@@ -78,5 +78,5 @@ Since this is my first time using Tailwind, it took more than `2days` for me get
 
 <!-- Project screenshot -->
 
-[project-url]:
-[source-code]:
+[project-url]: https://paytm-home-tailwind.netlify.app/
+[source-code]: https://github.com/nkumar007/paytm-home-clone
